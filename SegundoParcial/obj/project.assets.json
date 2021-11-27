@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BL/1.0.0": {
+      "type": "project",
+      "path": "../BL/BL.csproj",
+      "msbuildProject": "../BL/BL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "BL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Manuel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\SegundoParcial\\SegundoParcial.csproj",
+      "projectName": "SegundoParcial",
+      "projectPath": "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\SegundoParcial\\SegundoParcial.csproj",
+      "packagesPath": "C:\\Users\\Manuel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\SegundoParcial\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
