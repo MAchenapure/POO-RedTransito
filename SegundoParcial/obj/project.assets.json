@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\SegundoParcial\\SegundoParcial.csproj",
+      "projectUniqueName": "D:\\01 - Facultad\\00 - UAI\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\SegundoParcial\\SegundoParcial.csproj",
       "projectName": "SegundoParcial",
-      "projectPath": "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\SegundoParcial\\SegundoParcial.csproj",
+      "projectPath": "D:\\01 - Facultad\\00 - UAI\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\SegundoParcial\\SegundoParcial.csproj",
       "packagesPath": "C:\\Users\\Manuel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\SegundoParcial\\obj\\",
+      "outputPath": "D:\\01 - Facultad\\00 - UAI\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\SegundoParcial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj"
+            "D:\\01 - Facultad\\00 - UAI\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj": {
+              "projectPath": "D:\\01 - Facultad\\00 - UAI\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj"
             }
           }
         }
@@ -86,7 +86,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

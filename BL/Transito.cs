@@ -18,7 +18,7 @@ namespace BL
             SemaforoRojo += mVehi.DetenerMarcha;
             SemaforoVerde += mVehi.Avanzar;
         }
-
+        
         public IEnumerator<Vehiculo> GetEnumerator()
         {
             return mLista.GetEnumerator();

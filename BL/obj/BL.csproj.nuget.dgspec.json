@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj": {}
+    "D:\\01 - Facultad\\00 - UAI\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj": {
+    "D:\\01 - Facultad\\00 - UAI\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj",
+        "projectUniqueName": "D:\\01 - Facultad\\00 - UAI\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj",
+        "projectPath": "D:\\01 - Facultad\\00 - UAI\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\BL.csproj",
         "packagesPath": "C:\\Users\\Manuel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Manuel\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\obj\\",
+        "outputPath": "D:\\01 - Facultad\\00 - UAI\\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\\11 - Programación orientada a objetos\\Ejercicios\\Segundo parcial terminado postexamen\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Manuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
